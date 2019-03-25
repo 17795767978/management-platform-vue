@@ -1,0 +1,72 @@
+.el-submenu__icon-arrow {
+  margin-top: -4px;
+}
+
+.el-breadcrumb__inner,
+.el-breadcrumb__inner a {
+  color: #fff;
+  font-weight: 400 !important;
+}
+
+.el-breadcrumb__inner a:hover {
+  color: #42b983;
+}
+
+.el-form-item__label {
+  font-weight: 400;
+  color: #333;
+}
+
+.el-table thead {
+  color: #333;
+}
+
+.el-table th {
+  font-weight: 400;
+}
+
+.el-menu {
+  border-bottom: none;
+}
+
+.el-menu-item {
+  color: #464c5b;
+}
+
+.el-submenu__title,
+.el-submenu__title i {
+  color: #464c5b;
+}
+
+.el-submenu.is-active {
+  .el-submenu__title,
+  .el-submenu__title i {
+    color: #409EFF;
+  }
+}
+
+.el-upload-list {
+  overflow: hidden;
+}
+
+.el-upload-list__item {
+  float: left;
+  width: 216px;
+
+  .el-upload-list__item-name {
+    display: none;
+  }
+
+  img {
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
+
+.surnameInput {
+  position: relative;
+}
+
+.el-row {
+  margin-bottom: 20px;
+}
